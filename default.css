@@ -1,4 +1,7 @@
-      .wl-body {
+body {
+background-color: purple;
+}
+.wl-body {
         display: flex;
         align-items: center;
         justify-content: center;
