@@ -1,0 +1,9 @@
+      .wl-body {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 60vh;
+      }
+      .purple-font {
+        color: #ffffff;
+      }
